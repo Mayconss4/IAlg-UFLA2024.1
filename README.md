@@ -1,0 +1,1 @@
+Este repositório foi criado com o intuito de ajudar calouros a desenvolver suas habilidades em programação na disciplina de Introdução aos Algoritmos, de modo que os códigos ja resolvidos sirvam como um guia para a sua solução.
