@@ -1,0 +1,12 @@
+Faça um programa que leia três notas, calcule e imprima a média aritmética entre elas.
+
+Para isso, utilize o código fornecido. Baixe-o, faça as correções necessárias e submeta para avaliação.
+
+A Média Aritmética de um conjunto de dados é obtida somando todos os valores e dividindo o valor encontrado pelo número de dados desse conjunto.
+
+Entradas:
+
+Três números reais que representam as notas (cada valor deve ser armazenado em uma variável diferente).
+Saídas:
+
+A média aritmética das notas (um valor real).

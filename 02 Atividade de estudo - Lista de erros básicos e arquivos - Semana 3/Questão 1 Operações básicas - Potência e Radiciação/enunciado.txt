@@ -1,0 +1,18 @@
+Faça um programa que receba um número positivo e maior que zero, calcule e mostre: • O número digitado ao quadrado; • O número digitado ao cubo; • A raiz quadrada do número digitado;
+
+Entradas:
+
+Número real positivo (float).
+Saídas:
+
+Número elevado ao quadrado.
+Número elevado ao cubo.
+Raiz quadrada do número.
+Exemplo de Entrada:
+
+16
+Exemplo de Saída:
+
+256
+4096
+4

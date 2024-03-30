@@ -1,0 +1,9 @@
+Faça um programa para somar dois números reais.
+
+Entradas:
+
+Dois números reais que serão somados (cada número numa linha da entrada de dados).
+Saídas:
+
+A soma dos dois números, também um número real.
+Para isso utilize o código fornecido. Baixe-o, faça as correções necessárias e submeta para avaliação.

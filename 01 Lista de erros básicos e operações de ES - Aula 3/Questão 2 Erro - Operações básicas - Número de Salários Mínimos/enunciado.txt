@@ -1,0 +1,11 @@
+Faça um programa que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que ganha esse funcionário. Suponha que o salário do empregado é sempre maior ou igual ao salário mínimo.
+
+Entradas:
+
+Valor do salário mínimo (float).
+Valor do salário do funcionário (float).
+Saídas:
+
+Quantidade de salários mínimos que ganha esse funcionário
+OBS: Utilize o código fornecido. Baixe-o, faça as correções necessárias e submeta-o para avaliação.
+
