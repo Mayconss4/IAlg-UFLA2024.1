@@ -9,7 +9,5 @@ int main(){
 	cout << pow(number,3) << endl;
 	cout << sqrt(number);
 	
-	
-	
 	return 0;
 }
