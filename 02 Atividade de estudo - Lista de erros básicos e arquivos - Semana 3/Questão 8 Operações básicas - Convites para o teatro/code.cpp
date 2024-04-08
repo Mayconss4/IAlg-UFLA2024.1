@@ -1,13 +1,16 @@
 #include <iostream>
 #include <fstream>
+#include <math.h>
 using namespace std;
 int main (){
     double custo, convitePreco;
     int convites;
-    cin>>custo>>convitePreco;
+    ifstream arqE ("teatro.txt");
+    arqE >> custo >> convitePreco;
     ofstream arqS ("convite.txt");
-    convites = ((int)custo/convitePreco);
+    convites = ceil(((int)custo/convitePreco));
     arqS << convites;
+    arqE.close();
     arqS.close();
     return 0;
 }
